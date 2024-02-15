@@ -1,4 +1,6 @@
-👋 Olá, pessoal! Eu sou o Evander Barboza, um desenvolvedor iniciante em frontend!
+# 👋 Olá, pessoal! 
+
+😎 Eu sou o Evander Barboza, um desenvolvedor iniciante em frontend!
 
 💞 Sou apaixonado por criar interfaces web bonitas e interativas com HTML5, CSS3 e JavaScript.
 
@@ -23,7 +25,7 @@
 - Abrir issues para reportar bugs ou dar sugestões;
 - Entrar em contato comigo para conversar sobre desenvolvimento web.
   
-**Obrigado por visitar meu repositório! **
+**Obrigado por visitar meu repositório!**
 
 ## Ferramentas que eu uso:
 
@@ -33,10 +35,14 @@
 
 ## Me siga nas redes sociais:
 
-Instagram: @evanderrr_
-LinkedIn:  www.linkedin.com/in/evanderdev
+- Instagram: @evanderrr_
+- LinkedIn:  www.linkedin.com/in/evanderdev
 
-👋 Hi everyone! I'm Evander Barboza, a frontend developer beginner!
+---
+
+# 👋 Hi everyone! 
+
+😎 I'm Evander Barboza, a frontend developer beginner!
 
 💞 I'm passionate about creating beautiful and interactive web interfaces with HTML5, CSS3 and JavaScript.
 
@@ -53,7 +59,7 @@ LinkedIn:  www.linkedin.com/in/evanderdev
 ## What you can find here:
 
 - Source code of my projects;
-Links to my social media profiles.
+- Links to my social media profiles.
 
 ## Feel free to:
 
@@ -61,7 +67,7 @@ Links to my social media profiles.
 - Open issues to report bugs or give suggestions;
 - Contact me to talk about web development.
   
-**Thanks for visiting my repository! **
+**Thanks for visiting my repository!**
 
 ## Tools I use:
 
@@ -71,5 +77,5 @@ MDN Web Docs
 
 ## Follow me on social media:
 
-Instagram: @evanderrr_
-LinkedIn: www.linkedin.com/in/evanderdev
+- Instagram: @evanderrr_
+- LinkedIn: www.linkedin.com/in/evanderdev
